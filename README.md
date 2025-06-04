@@ -137,7 +137,13 @@ From here, you can:
 ## 🙋‍♂️ Author
 
 **Amit Kharche**  
-📬 [LinkedIn](https://www.linkedin.com/in/amitkharche)  
+## 🔗 Connect with Me
+
+* [🔗 LinkedIn](https://www.linkedin.com/in/amitkharche)
+* [📰 Newsletter – From Data to Decisions](https://www.linkedin.com/newsletters/from-data-to-decisions-7309470147277168640/)
+* [💻 GitHub](https://github.com/amitkharche)
+* [✍️ Medium](https://medium.com/@amitkharche14)
+
 
 ---
 
