@@ -84,8 +84,8 @@ regression_sales_forecasting_prophet/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/amitkharche/regression_projects.git
-cd regression_projects/regression_sales_forecasting_prophet
+git clone https://github.com/amitkharche/Regression_sales_forecasting_prophet_streamlit.git
+cd Regression_sales_forecasting_prophet_streamlit
 ```
 
 ### 2️⃣ Install Dependencies
@@ -124,6 +124,13 @@ From here, you can:
 - 📈 Sales forecast with confidence intervals
 - 🌀 Weekly and yearly seasonality
 - 🔄 Interactive controls for tuning forecast horizon
+
+## 🖼️ Streamlit App UI
+
+<p align="center">
+  <img src="App_UI.jpg" alt="Sales Forecasting App UI" width="700"/>
+</p>
+
 
 ---
 
